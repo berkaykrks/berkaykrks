@@ -11,7 +11,7 @@
 
 - 👨‍💻 You can see my web site [https://wayolapre.github.io/myWebSite.github.io/](https://wayolapre.github.io/myWebSite.github.io/)
 
-- 💬 Ask me about **Java,C# and blockchain,JMeter,Postman**
+- 💬 Ask me about **Java,C#, Blockchain,JMeter,Postman**
 
 - 📫 How to reach me **karakusataberkay@gmail.com**
 
