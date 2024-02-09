@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ata Berkay Karakuş</h1>
 <h3 align="center">Welcome to my profile. I am developing myself in the fields of Java and Blockchain technologies, which I find interesting.</h3>
-![](https://komarev.com/ghpvc/?username=berkaykrks&color=dc143c)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=berkaykrks&label=Profile%20views&color=0e75b6&style=plastic" alt="berkaykrks" /> </p>
 <p align="left"> <a href="https://github.com/berkaykrks"="https://github-profile-trophy.vercel.app/?username=berkaykrks" alt="berkaykrks" /></a> </p>
 
 - 🔭 I’m currently working on [fitnessApp](https://github.com/berkaykrks/fitnessApp)
