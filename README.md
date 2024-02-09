@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkaykrks&label=Profile%20views&color=ff0000&style=plastic" alt="berkaykrks" /> </p>
 
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenI2cm5xamVpM2VxcGtocWhpczcxZWRlcjg4ZmM3YW53cmJ2aXAxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpKxfPy33hMRy/giphy.gif" />
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkaykrks" alt="berkaykrks" /></a> </p>
 
 - 🔭 I’m currently working on [fitnessApp](https://github.com/berkaykrks/fitnessApp)
