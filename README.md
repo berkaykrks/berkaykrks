@@ -4,8 +4,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaykrks&show_icons=true&locale=en" alt="berkaykrks" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkaykrks&" alt="berkaykrks" /></p>
-<p align="left"> <a href="https://github.com/berkaykrks"="https://github-profile-trophy.vercel.app/?username=berkaykrks" alt="berkaykrks" /></a> </p>
+
 
 - 🔭 I’m currently working on [fitnessApp](https://github.com/berkaykrks/fitnessApp)
 
