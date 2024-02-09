@@ -2,8 +2,6 @@
 <h3 align="center">Welcome to my profile. I am developing myself in the fields of Java and Blockchain technologies, which I find interesting.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkaykrks&label=Profile%20views&color=0e75b6&style=plastic" alt="berkaykrks" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaykrks&show_icons=true&locale=en" alt="berkaykrks" /></p>
-
 
 
 - 🔭 I’m currently working on [fitnessApp](https://github.com/berkaykrks/fitnessApp)
