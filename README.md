@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java and Blockchain technologies.**
 
-- 👨‍💻 You can see my web site [https://berkaykrks.github.io/myWebSite.github.io/](https://berkaykrks.github.io/myWebSite.github.io/)
+- 👨‍💻 You can see my web site [https://berkaykrks.github.io/myWebSite.github.io/](https://berkaykrks.netlify.app/)
 
 - 💬 Ask me about **Java,C#, Blockchain,JMeter,Postman**
 
