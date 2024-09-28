@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [fitnessApp](https://github.com/berkaykrks/fitnessApp)
 
-- 🌱 I’m currently learning **Java and Blockchain technologies.**
+- 🌱 I’m currently learning **Java and Javascript technologies.**
 
 - 👨‍💻 You can see my web site [https://berkaykrks.netlify.app/](https://berkaykrks.netlify.app/)
 
