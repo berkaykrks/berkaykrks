@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [fitnessApp](https://github.com/berkaykrks/fitnessApp)
+- 🔭 I’m currently working on [QRMenu](https://github.com/berkaykrks/qr-menu)
 
 - 🌱 I’m currently learning **Java and Javascript technologies.**
 
